@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\05CalculosRetangulo\bin\Debug\net6.0\05CalculosRetangulo.exe
+C:\Cursos\CursoCSharp\05CalculosRetangulo\bin\Debug\net6.0\05CalculosRetangulo.deps.json
+C:\Cursos\CursoCSharp\05CalculosRetangulo\bin\Debug\net6.0\05CalculosRetangulo.runtimeconfig.json
+C:\Cursos\CursoCSharp\05CalculosRetangulo\bin\Debug\net6.0\05CalculosRetangulo.dll
+C:\Cursos\CursoCSharp\05CalculosRetangulo\bin\Debug\net6.0\ref\05CalculosRetangulo.dll
+C:\Cursos\CursoCSharp\05CalculosRetangulo\bin\Debug\net6.0\05CalculosRetangulo.pdb
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\05CalculosRetangulo.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\05CalculosRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\05CalculosRetangulo.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\05CalculosRetangulo.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\05CalculosRetangulo.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\05CalculosRetangulo.dll
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\ref\05CalculosRetangulo.dll
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\05CalculosRetangulo.pdb
+C:\Cursos\CursoCSharp\05CalculosRetangulo\obj\Debug\net6.0\05CalculosRetangulo.genruntimeconfig.cache

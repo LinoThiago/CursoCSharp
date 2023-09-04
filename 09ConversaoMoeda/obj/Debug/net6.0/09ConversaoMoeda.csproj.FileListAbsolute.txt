@@ -1,0 +1,14 @@
+C:\Cursos\CursoCSharp\09ConversaoMoeda\bin\Debug\net6.0\09ConversaoMoeda.exe
+C:\Cursos\CursoCSharp\09ConversaoMoeda\bin\Debug\net6.0\09ConversaoMoeda.deps.json
+C:\Cursos\CursoCSharp\09ConversaoMoeda\bin\Debug\net6.0\09ConversaoMoeda.runtimeconfig.json
+C:\Cursos\CursoCSharp\09ConversaoMoeda\bin\Debug\net6.0\09ConversaoMoeda.dll
+C:\Cursos\CursoCSharp\09ConversaoMoeda\bin\Debug\net6.0\ref\09ConversaoMoeda.dll
+C:\Cursos\CursoCSharp\09ConversaoMoeda\bin\Debug\net6.0\09ConversaoMoeda.pdb
+C:\Cursos\CursoCSharp\09ConversaoMoeda\obj\Debug\net6.0\09ConversaoMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\09ConversaoMoeda\obj\Debug\net6.0\09ConversaoMoeda.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\09ConversaoMoeda\obj\Debug\net6.0\09ConversaoMoeda.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\09ConversaoMoeda\obj\Debug\net6.0\09ConversaoMoeda.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\09ConversaoMoeda\obj\Debug\net6.0\09ConversaoMoeda.dll
+C:\Cursos\CursoCSharp\09ConversaoMoeda\obj\Debug\net6.0\ref\09ConversaoMoeda.dll
+C:\Cursos\CursoCSharp\09ConversaoMoeda\obj\Debug\net6.0\09ConversaoMoeda.pdb
+C:\Cursos\CursoCSharp\09ConversaoMoeda\obj\Debug\net6.0\09ConversaoMoeda.genruntimeconfig.cache

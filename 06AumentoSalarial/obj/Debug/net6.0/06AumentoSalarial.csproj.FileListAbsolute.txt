@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\06AumentoSalarial\bin\Debug\net6.0\06AumentoSalarial.exe
+C:\Cursos\CursoCSharp\06AumentoSalarial\bin\Debug\net6.0\06AumentoSalarial.deps.json
+C:\Cursos\CursoCSharp\06AumentoSalarial\bin\Debug\net6.0\06AumentoSalarial.runtimeconfig.json
+C:\Cursos\CursoCSharp\06AumentoSalarial\bin\Debug\net6.0\06AumentoSalarial.dll
+C:\Cursos\CursoCSharp\06AumentoSalarial\bin\Debug\net6.0\ref\06AumentoSalarial.dll
+C:\Cursos\CursoCSharp\06AumentoSalarial\bin\Debug\net6.0\06AumentoSalarial.pdb
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\06AumentoSalarial.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\06AumentoSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\06AumentoSalarial.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\06AumentoSalarial.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\06AumentoSalarial.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\06AumentoSalarial.dll
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\ref\06AumentoSalarial.dll
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\06AumentoSalarial.pdb
+C:\Cursos\CursoCSharp\06AumentoSalarial\obj\Debug\net6.0\06AumentoSalarial.genruntimeconfig.cache

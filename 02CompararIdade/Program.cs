@@ -1,0 +1,30 @@
+﻿namespace _02CompararIdade
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Pessoa pessoaA = new Pessoa();
+            Pessoa pessoaB = new Pessoa();
+            Console.WriteLine("Dados da primeira pessoa:");
+            Console.Write("Nome: ");
+            pessoaA.Nome = Console.ReadLine();
+            Console.Write("Idade: ");
+            pessoaA.Idade = int.Parse(Console.ReadLine());
+            Console.WriteLine("Dados da segunda pessoa:");
+            Console.Write("Nome: ");
+            pessoaB.Nome = Console.ReadLine();
+            Console.Write("Idade: ");
+            pessoaB.Idade = int.Parse(Console.ReadLine());
+            if(pessoaA.Idade > pessoaB.Idade)
+            {
+                Console.WriteLine($"Pessoa mais velha: {pessoaA.Nome}");
+            }
+            else
+            {
+                Console.WriteLine($"Pessoa mais velha: {pessoaB.Nome}");
+            }
+
+        }
+    }
+}

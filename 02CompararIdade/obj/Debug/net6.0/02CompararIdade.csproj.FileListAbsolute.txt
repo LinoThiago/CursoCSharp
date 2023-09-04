@@ -1,0 +1,14 @@
+C:\Cursos\CursoCSharp\02CompararIdade\bin\Debug\net6.0\02CompararIdade.exe
+C:\Cursos\CursoCSharp\02CompararIdade\bin\Debug\net6.0\02CompararIdade.deps.json
+C:\Cursos\CursoCSharp\02CompararIdade\bin\Debug\net6.0\02CompararIdade.runtimeconfig.json
+C:\Cursos\CursoCSharp\02CompararIdade\bin\Debug\net6.0\02CompararIdade.dll
+C:\Cursos\CursoCSharp\02CompararIdade\bin\Debug\net6.0\ref\02CompararIdade.dll
+C:\Cursos\CursoCSharp\02CompararIdade\bin\Debug\net6.0\02CompararIdade.pdb
+C:\Cursos\CursoCSharp\02CompararIdade\obj\Debug\net6.0\02CompararIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\02CompararIdade\obj\Debug\net6.0\02CompararIdade.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\02CompararIdade\obj\Debug\net6.0\02CompararIdade.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\02CompararIdade\obj\Debug\net6.0\02CompararIdade.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\02CompararIdade\obj\Debug\net6.0\02CompararIdade.dll
+C:\Cursos\CursoCSharp\02CompararIdade\obj\Debug\net6.0\ref\02CompararIdade.dll
+C:\Cursos\CursoCSharp\02CompararIdade\obj\Debug\net6.0\02CompararIdade.pdb
+C:\Cursos\CursoCSharp\02CompararIdade\obj\Debug\net6.0\02CompararIdade.genruntimeconfig.cache

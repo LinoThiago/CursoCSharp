@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\04Estoque\bin\Debug\net6.0\04Estoque.exe
+C:\Cursos\CursoCSharp\04Estoque\bin\Debug\net6.0\04Estoque.deps.json
+C:\Cursos\CursoCSharp\04Estoque\bin\Debug\net6.0\04Estoque.runtimeconfig.json
+C:\Cursos\CursoCSharp\04Estoque\bin\Debug\net6.0\04Estoque.dll
+C:\Cursos\CursoCSharp\04Estoque\bin\Debug\net6.0\ref\04Estoque.dll
+C:\Cursos\CursoCSharp\04Estoque\bin\Debug\net6.0\04Estoque.pdb
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\04Estoque.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\04Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\04Estoque.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\04Estoque.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\04Estoque.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\04Estoque.dll
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\ref\04Estoque.dll
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\04Estoque.pdb
+C:\Cursos\CursoCSharp\04Estoque\obj\Debug\net6.0\04Estoque.genruntimeconfig.cache

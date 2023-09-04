@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\07MediaNotas\bin\Debug\net6.0\07SomaNotas.exe
+C:\Cursos\CursoCSharp\07MediaNotas\bin\Debug\net6.0\07SomaNotas.deps.json
+C:\Cursos\CursoCSharp\07MediaNotas\bin\Debug\net6.0\07SomaNotas.runtimeconfig.json
+C:\Cursos\CursoCSharp\07MediaNotas\bin\Debug\net6.0\07SomaNotas.dll
+C:\Cursos\CursoCSharp\07MediaNotas\bin\Debug\net6.0\ref\07SomaNotas.dll
+C:\Cursos\CursoCSharp\07MediaNotas\bin\Debug\net6.0\07SomaNotas.pdb
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\07SomaNotas.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\07SomaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\07SomaNotas.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\07SomaNotas.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\07SomaNotas.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\07SomaNotas.dll
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\ref\07SomaNotas.dll
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\07SomaNotas.pdb
+C:\Cursos\CursoCSharp\07MediaNotas\obj\Debug\net6.0\07SomaNotas.genruntimeconfig.cache

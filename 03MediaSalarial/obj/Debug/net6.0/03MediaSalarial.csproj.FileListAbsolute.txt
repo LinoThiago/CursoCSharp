@@ -1,0 +1,14 @@
+C:\Cursos\CursoCSharp\03MediaSalarial\bin\Debug\net6.0\03MediaSalarial.exe
+C:\Cursos\CursoCSharp\03MediaSalarial\bin\Debug\net6.0\03MediaSalarial.deps.json
+C:\Cursos\CursoCSharp\03MediaSalarial\bin\Debug\net6.0\03MediaSalarial.runtimeconfig.json
+C:\Cursos\CursoCSharp\03MediaSalarial\bin\Debug\net6.0\03MediaSalarial.dll
+C:\Cursos\CursoCSharp\03MediaSalarial\bin\Debug\net6.0\ref\03MediaSalarial.dll
+C:\Cursos\CursoCSharp\03MediaSalarial\bin\Debug\net6.0\03MediaSalarial.pdb
+C:\Cursos\CursoCSharp\03MediaSalarial\obj\Debug\net6.0\03MediaSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\03MediaSalarial\obj\Debug\net6.0\03MediaSalarial.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\03MediaSalarial\obj\Debug\net6.0\03MediaSalarial.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\03MediaSalarial\obj\Debug\net6.0\03MediaSalarial.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\03MediaSalarial\obj\Debug\net6.0\03MediaSalarial.dll
+C:\Cursos\CursoCSharp\03MediaSalarial\obj\Debug\net6.0\ref\03MediaSalarial.dll
+C:\Cursos\CursoCSharp\03MediaSalarial\obj\Debug\net6.0\03MediaSalarial.pdb
+C:\Cursos\CursoCSharp\03MediaSalarial\obj\Debug\net6.0\03MediaSalarial.genruntimeconfig.cache

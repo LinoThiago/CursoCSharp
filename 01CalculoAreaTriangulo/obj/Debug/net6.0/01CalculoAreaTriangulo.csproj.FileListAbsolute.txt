@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\bin\Debug\net6.0\01CalculoAreaTriangulo.exe
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\bin\Debug\net6.0\01CalculoAreaTriangulo.deps.json
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\bin\Debug\net6.0\01CalculoAreaTriangulo.runtimeconfig.json
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\bin\Debug\net6.0\01CalculoAreaTriangulo.dll
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\bin\Debug\net6.0\ref\01CalculoAreaTriangulo.dll
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\bin\Debug\net6.0\01CalculoAreaTriangulo.pdb
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\01CalculoAreaTriangulo.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\01CalculoAreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\01CalculoAreaTriangulo.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\01CalculoAreaTriangulo.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\01CalculoAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\01CalculoAreaTriangulo.dll
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\ref\01CalculoAreaTriangulo.dll
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\01CalculoAreaTriangulo.pdb
+C:\Cursos\CursoCSharp\01CalculoAreaTriangulo\obj\Debug\net6.0\01CalculoAreaTriangulo.genruntimeconfig.cache

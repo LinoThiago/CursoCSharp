@@ -1,0 +1,14 @@
+C:\Cursos\CursoCSharp\08CalculosCirculo\bin\Debug\net6.0\08CalculosCirculo.exe
+C:\Cursos\CursoCSharp\08CalculosCirculo\bin\Debug\net6.0\08CalculosCirculo.deps.json
+C:\Cursos\CursoCSharp\08CalculosCirculo\bin\Debug\net6.0\08CalculosCirculo.runtimeconfig.json
+C:\Cursos\CursoCSharp\08CalculosCirculo\bin\Debug\net6.0\08CalculosCirculo.dll
+C:\Cursos\CursoCSharp\08CalculosCirculo\bin\Debug\net6.0\ref\08CalculosCirculo.dll
+C:\Cursos\CursoCSharp\08CalculosCirculo\bin\Debug\net6.0\08CalculosCirculo.pdb
+C:\Cursos\CursoCSharp\08CalculosCirculo\obj\Debug\net6.0\08CalculosCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\08CalculosCirculo\obj\Debug\net6.0\08CalculosCirculo.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\08CalculosCirculo\obj\Debug\net6.0\08CalculosCirculo.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\08CalculosCirculo\obj\Debug\net6.0\08CalculosCirculo.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\08CalculosCirculo\obj\Debug\net6.0\08CalculosCirculo.dll
+C:\Cursos\CursoCSharp\08CalculosCirculo\obj\Debug\net6.0\ref\08CalculosCirculo.dll
+C:\Cursos\CursoCSharp\08CalculosCirculo\obj\Debug\net6.0\08CalculosCirculo.pdb
+C:\Cursos\CursoCSharp\08CalculosCirculo\obj\Debug\net6.0\08CalculosCirculo.genruntimeconfig.cache

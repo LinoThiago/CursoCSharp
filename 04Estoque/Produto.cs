@@ -1,16 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _04Estoque
+﻿namespace _04Estoque
 {
     internal class Produto
     {
         public string Nome;
         public double Preco;
         public int Quantidade;
+
+        public Produto(string nome, double preco, int quantidade)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }
+
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;

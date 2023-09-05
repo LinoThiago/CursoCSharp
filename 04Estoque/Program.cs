@@ -4,26 +4,24 @@
     {
         static void Main(string[] args)
         {
-            Produto produto = new Produto();
+            string nome;
+            double preco;
+            int quantidade;
             Console.WriteLine("Entre com os dados do produto:");
             Console.Write("Nome: ");
-            produto.Nome = Console.ReadLine();
+            nome = Console.ReadLine();
             Console.Write("Preço: ");
-            produto.Preco = double.Parse(Console.ReadLine());
+            preco = double.Parse(Console.ReadLine());
             Console.Write("Quantidade: ");
-            produto.Quantidade = int.Parse(Console.ReadLine());
-            Console.WriteLine();
-            Console.WriteLine($"Dados do produto: {produto}");
-            Console.WriteLine();
+            quantidade = int.Parse(Console.ReadLine());
+            Produto produto = new Produto(nome, preco, quantidade);
+            Console.WriteLine($"\nDados do produto: {produto}\n");
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             produto.AdicionarProdutos(int.Parse(Console.ReadLine()));
-            Console.WriteLine();
-            Console.WriteLine($"Dados atualizados: {produto}");
-            Console.WriteLine();
+            Console.WriteLine($"\nDados atualizados: {produto}\n");
             Console.Write("Digite o número de produtos a ser removido do estoque: ");
             produto.RemoverProdutos(int.Parse(Console.ReadLine()));
-            Console.WriteLine();
-            Console.WriteLine($"Dados atualizados: {produto}");
+            Console.WriteLine($"\nDados atualizados: {produto}");
         }
     }
 }

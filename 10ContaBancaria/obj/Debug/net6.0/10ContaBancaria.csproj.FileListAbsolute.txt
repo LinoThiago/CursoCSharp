@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\10ContaBancaria.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\10ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\10ContaBancaria.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\10ContaBancaria.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\10ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\10ContaBancaria\bin\Debug\net6.0\10ContaBancaria.exe
+C:\Cursos\CursoCSharp\10ContaBancaria\bin\Debug\net6.0\10ContaBancaria.deps.json
+C:\Cursos\CursoCSharp\10ContaBancaria\bin\Debug\net6.0\10ContaBancaria.runtimeconfig.json
+C:\Cursos\CursoCSharp\10ContaBancaria\bin\Debug\net6.0\10ContaBancaria.dll
+C:\Cursos\CursoCSharp\10ContaBancaria\bin\Debug\net6.0\ref\10ContaBancaria.dll
+C:\Cursos\CursoCSharp\10ContaBancaria\bin\Debug\net6.0\10ContaBancaria.pdb
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\10ContaBancaria.dll
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\ref\10ContaBancaria.dll
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\10ContaBancaria.pdb
+C:\Cursos\CursoCSharp\10ContaBancaria\obj\Debug\net6.0\10ContaBancaria.genruntimeconfig.cache

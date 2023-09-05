@@ -2,22 +2,27 @@
 {
     internal class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
         public Produto(string nome, double preco, int quantidade)
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco)
+        public string Nome 
         {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = 10;
+            get { return _nome; }
+            set
+            {
+                if(value != null)
+                {
+                    _nome = value;
+                }
+            }
         }
 
         public double ValorTotalEmEstoque()

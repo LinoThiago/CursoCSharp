@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\bin\Debug\net6.0\12ReservaQuartoVetor.exe
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\bin\Debug\net6.0\12ReservaQuartoVetor.deps.json
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\bin\Debug\net6.0\12ReservaQuartoVetor.runtimeconfig.json
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\bin\Debug\net6.0\12ReservaQuartoVetor.dll
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\bin\Debug\net6.0\ref\12ReservaQuartoVetor.dll
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\bin\Debug\net6.0\12ReservaQuartoVetor.pdb
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\12ReservaQuartoVetor.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\12ReservaQuartoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\12ReservaQuartoVetor.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\12ReservaQuartoVetor.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\12ReservaQuartoVetor.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\12ReservaQuartoVetor.dll
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\ref\12ReservaQuartoVetor.dll
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\12ReservaQuartoVetor.pdb
+C:\Cursos\CursoCSharp\12ReservaQuartoVetor\obj\Debug\net6.0\12ReservaQuartoVetor.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\bin\Debug\net6.0\11SomaVetorObjeto.exe
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\bin\Debug\net6.0\11SomaVetorObjeto.deps.json
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\bin\Debug\net6.0\11SomaVetorObjeto.runtimeconfig.json
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\bin\Debug\net6.0\11SomaVetorObjeto.dll
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\bin\Debug\net6.0\ref\11SomaVetorObjeto.dll
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\bin\Debug\net6.0\11SomaVetorObjeto.pdb
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\11SomaVetorObjeto.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\11SomaVetorObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\11SomaVetorObjeto.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\11SomaVetorObjeto.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\11SomaVetorObjeto.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\11SomaVetorObjeto.dll
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\ref\11SomaVetorObjeto.dll
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\11SomaVetorObjeto.pdb
+C:\Cursos\CursoCSharp\11SomaVetorObjeto\obj\Debug\net6.0\11SomaVetorObjeto.genruntimeconfig.cache

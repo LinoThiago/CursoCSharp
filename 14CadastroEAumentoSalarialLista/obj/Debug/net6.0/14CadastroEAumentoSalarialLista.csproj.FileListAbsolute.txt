@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\bin\Debug\net6.0\14CadastroEAumentoSalarialLista.exe
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\bin\Debug\net6.0\14CadastroEAumentoSalarialLista.deps.json
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\bin\Debug\net6.0\14CadastroEAumentoSalarialLista.runtimeconfig.json
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\bin\Debug\net6.0\14CadastroEAumentoSalarialLista.dll
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\bin\Debug\net6.0\ref\14CadastroEAumentoSalarialLista.dll
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\bin\Debug\net6.0\14CadastroEAumentoSalarialLista.pdb
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\14CadastroEAumentoSalarialLista.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\14CadastroEAumentoSalarialLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\14CadastroEAumentoSalarialLista.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\14CadastroEAumentoSalarialLista.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\14CadastroEAumentoSalarialLista.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\14CadastroEAumentoSalarialLista.dll
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\ref\14CadastroEAumentoSalarialLista.dll
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\14CadastroEAumentoSalarialLista.pdb
+C:\Cursos\CursoCSharp\14CadastroEAumentoSalarialLista\obj\Debug\net6.0\14CadastroEAumentoSalarialLista.genruntimeconfig.cache

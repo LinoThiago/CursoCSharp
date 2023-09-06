@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\13ManipulandoLista\bin\Debug\net6.0\13ManipulandoLista.exe
+C:\Cursos\CursoCSharp\13ManipulandoLista\bin\Debug\net6.0\13ManipulandoLista.deps.json
+C:\Cursos\CursoCSharp\13ManipulandoLista\bin\Debug\net6.0\13ManipulandoLista.runtimeconfig.json
+C:\Cursos\CursoCSharp\13ManipulandoLista\bin\Debug\net6.0\13ManipulandoLista.dll
+C:\Cursos\CursoCSharp\13ManipulandoLista\bin\Debug\net6.0\ref\13ManipulandoLista.dll
+C:\Cursos\CursoCSharp\13ManipulandoLista\bin\Debug\net6.0\13ManipulandoLista.pdb
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\13ManipulandoLista.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\13ManipulandoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\13ManipulandoLista.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\13ManipulandoLista.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\13ManipulandoLista.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\13ManipulandoLista.dll
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\ref\13ManipulandoLista.dll
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\13ManipulandoLista.pdb
+C:\Cursos\CursoCSharp\13ManipulandoLista\obj\Debug\net6.0\13ManipulandoLista.genruntimeconfig.cache

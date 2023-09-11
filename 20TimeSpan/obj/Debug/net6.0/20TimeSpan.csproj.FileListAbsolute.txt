@@ -1,0 +1,14 @@
+C:\Cursos\CursoCSharp\20TimeSpan\bin\Debug\net6.0\20TimeSpan.exe
+C:\Cursos\CursoCSharp\20TimeSpan\bin\Debug\net6.0\20TimeSpan.deps.json
+C:\Cursos\CursoCSharp\20TimeSpan\bin\Debug\net6.0\20TimeSpan.runtimeconfig.json
+C:\Cursos\CursoCSharp\20TimeSpan\bin\Debug\net6.0\20TimeSpan.dll
+C:\Cursos\CursoCSharp\20TimeSpan\bin\Debug\net6.0\ref\20TimeSpan.dll
+C:\Cursos\CursoCSharp\20TimeSpan\bin\Debug\net6.0\20TimeSpan.pdb
+C:\Cursos\CursoCSharp\20TimeSpan\obj\Debug\net6.0\20TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\20TimeSpan\obj\Debug\net6.0\20TimeSpan.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\20TimeSpan\obj\Debug\net6.0\20TimeSpan.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\20TimeSpan\obj\Debug\net6.0\20TimeSpan.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\20TimeSpan\obj\Debug\net6.0\20TimeSpan.dll
+C:\Cursos\CursoCSharp\20TimeSpan\obj\Debug\net6.0\ref\20TimeSpan.dll
+C:\Cursos\CursoCSharp\20TimeSpan\obj\Debug\net6.0\20TimeSpan.pdb
+C:\Cursos\CursoCSharp\20TimeSpan\obj\Debug\net6.0\20TimeSpan.genruntimeconfig.cache

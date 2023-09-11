@@ -1,0 +1,14 @@
+C:\Cursos\CursoCSharp\18FuncoesString\bin\Debug\net6.0\18FuncoesString.exe
+C:\Cursos\CursoCSharp\18FuncoesString\bin\Debug\net6.0\18FuncoesString.deps.json
+C:\Cursos\CursoCSharp\18FuncoesString\bin\Debug\net6.0\18FuncoesString.runtimeconfig.json
+C:\Cursos\CursoCSharp\18FuncoesString\bin\Debug\net6.0\18FuncoesString.dll
+C:\Cursos\CursoCSharp\18FuncoesString\bin\Debug\net6.0\ref\18FuncoesString.dll
+C:\Cursos\CursoCSharp\18FuncoesString\bin\Debug\net6.0\18FuncoesString.pdb
+C:\Cursos\CursoCSharp\18FuncoesString\obj\Debug\net6.0\18FuncoesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\18FuncoesString\obj\Debug\net6.0\18FuncoesString.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\18FuncoesString\obj\Debug\net6.0\18FuncoesString.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\18FuncoesString\obj\Debug\net6.0\18FuncoesString.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\18FuncoesString\obj\Debug\net6.0\18FuncoesString.dll
+C:\Cursos\CursoCSharp\18FuncoesString\obj\Debug\net6.0\ref\18FuncoesString.dll
+C:\Cursos\CursoCSharp\18FuncoesString\obj\Debug\net6.0\18FuncoesString.pdb
+C:\Cursos\CursoCSharp\18FuncoesString\obj\Debug\net6.0\18FuncoesString.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\bin\Debug\net6.0\16MostrarVizinhosMatriz.exe
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\bin\Debug\net6.0\16MostrarVizinhosMatriz.deps.json
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\bin\Debug\net6.0\16MostrarVizinhosMatriz.runtimeconfig.json
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\bin\Debug\net6.0\16MostrarVizinhosMatriz.dll
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\bin\Debug\net6.0\ref\16MostrarVizinhosMatriz.dll
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\bin\Debug\net6.0\16MostrarVizinhosMatriz.pdb
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\16MostrarVizinhosMatriz.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\16MostrarVizinhosMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\16MostrarVizinhosMatriz.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\16MostrarVizinhosMatriz.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\16MostrarVizinhosMatriz.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\16MostrarVizinhosMatriz.dll
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\ref\16MostrarVizinhosMatriz.dll
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\16MostrarVizinhosMatriz.pdb
+C:\Cursos\CursoCSharp\16MostrarVizinhosMatriz\obj\Debug\net6.0\16MostrarVizinhosMatriz.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\17CondicionalTernaria\bin\Debug\net6.0\17CondicionalTernaria.exe
+C:\Cursos\CursoCSharp\17CondicionalTernaria\bin\Debug\net6.0\17CondicionalTernaria.deps.json
+C:\Cursos\CursoCSharp\17CondicionalTernaria\bin\Debug\net6.0\17CondicionalTernaria.runtimeconfig.json
+C:\Cursos\CursoCSharp\17CondicionalTernaria\bin\Debug\net6.0\17CondicionalTernaria.dll
+C:\Cursos\CursoCSharp\17CondicionalTernaria\bin\Debug\net6.0\ref\17CondicionalTernaria.dll
+C:\Cursos\CursoCSharp\17CondicionalTernaria\bin\Debug\net6.0\17CondicionalTernaria.pdb
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\17CondicionalTernaria.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\17CondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\17CondicionalTernaria.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\17CondicionalTernaria.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\17CondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\17CondicionalTernaria.dll
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\ref\17CondicionalTernaria.dll
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\17CondicionalTernaria.pdb
+C:\Cursos\CursoCSharp\17CondicionalTernaria\obj\Debug\net6.0\17CondicionalTernaria.genruntimeconfig.cache

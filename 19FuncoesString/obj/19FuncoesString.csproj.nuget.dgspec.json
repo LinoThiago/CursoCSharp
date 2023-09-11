@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\CursoCSharp\\18FuncoesString\\18FuncoesString.csproj": {}
+    "C:\\Cursos\\CursoCSharp\\19FuncoesString\\19FuncoesString.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\CursoCSharp\\18FuncoesString\\18FuncoesString.csproj": {
+    "C:\\Cursos\\CursoCSharp\\19FuncoesString\\19FuncoesString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\CursoCSharp\\18FuncoesString\\18FuncoesString.csproj",
-        "projectName": "18FuncoesString",
-        "projectPath": "C:\\Cursos\\CursoCSharp\\18FuncoesString\\18FuncoesString.csproj",
+        "projectUniqueName": "C:\\Cursos\\CursoCSharp\\19FuncoesString\\19FuncoesString.csproj",
+        "projectName": "19FuncoesString",
+        "projectPath": "C:\\Cursos\\CursoCSharp\\19FuncoesString\\19FuncoesString.csproj",
         "packagesPath": "C:\\Users\\ThiagoCorreaLino\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\CursoCSharp\\18FuncoesString\\obj\\",
+        "outputPath": "C:\\Cursos\\CursoCSharp\\19FuncoesString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

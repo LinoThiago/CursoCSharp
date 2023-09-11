@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\18DateTime\bin\Debug\net6.0\18DateTime.exe
+C:\Cursos\CursoCSharp\18DateTime\bin\Debug\net6.0\18DateTime.deps.json
+C:\Cursos\CursoCSharp\18DateTime\bin\Debug\net6.0\18DateTime.runtimeconfig.json
+C:\Cursos\CursoCSharp\18DateTime\bin\Debug\net6.0\18DateTime.dll
+C:\Cursos\CursoCSharp\18DateTime\bin\Debug\net6.0\ref\18DateTime.dll
+C:\Cursos\CursoCSharp\18DateTime\bin\Debug\net6.0\18DateTime.pdb
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\18DateTime.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\18DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\18DateTime.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\18DateTime.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\18DateTime.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\18DateTime.dll
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\ref\18DateTime.dll
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\18DateTime.pdb
+C:\Cursos\CursoCSharp\18DateTime\obj\Debug\net6.0\18DateTime.genruntimeconfig.cache

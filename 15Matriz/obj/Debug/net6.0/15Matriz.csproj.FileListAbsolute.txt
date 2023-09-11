@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\15Matriz\bin\Debug\net6.0\15Matriz.exe
+C:\Cursos\CursoCSharp\15Matriz\bin\Debug\net6.0\15Matriz.deps.json
+C:\Cursos\CursoCSharp\15Matriz\bin\Debug\net6.0\15Matriz.runtimeconfig.json
+C:\Cursos\CursoCSharp\15Matriz\bin\Debug\net6.0\15Matriz.dll
+C:\Cursos\CursoCSharp\15Matriz\bin\Debug\net6.0\ref\15Matriz.dll
+C:\Cursos\CursoCSharp\15Matriz\bin\Debug\net6.0\15Matriz.pdb
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\15Matriz.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\15Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\15Matriz.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\15Matriz.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\15Matriz.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\15Matriz.dll
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\ref\15Matriz.dll
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\15Matriz.pdb
+C:\Cursos\CursoCSharp\15Matriz\obj\Debug\net6.0\15Matriz.genruntimeconfig.cache

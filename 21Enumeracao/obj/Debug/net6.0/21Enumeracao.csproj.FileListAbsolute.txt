@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\21Enumeracao\bin\Debug\net6.0\21Enumeracao.exe
+C:\Cursos\CursoCSharp\21Enumeracao\bin\Debug\net6.0\21Enumeracao.deps.json
+C:\Cursos\CursoCSharp\21Enumeracao\bin\Debug\net6.0\21Enumeracao.runtimeconfig.json
+C:\Cursos\CursoCSharp\21Enumeracao\bin\Debug\net6.0\21Enumeracao.dll
+C:\Cursos\CursoCSharp\21Enumeracao\bin\Debug\net6.0\ref\21Enumeracao.dll
+C:\Cursos\CursoCSharp\21Enumeracao\bin\Debug\net6.0\21Enumeracao.pdb
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\21Enumeracao.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\21Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\21Enumeracao.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\21Enumeracao.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\21Enumeracao.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\21Enumeracao.dll
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\ref\21Enumeracao.dll
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\21Enumeracao.pdb
+C:\Cursos\CursoCSharp\21Enumeracao\obj\Debug\net6.0\21Enumeracao.genruntimeconfig.cache

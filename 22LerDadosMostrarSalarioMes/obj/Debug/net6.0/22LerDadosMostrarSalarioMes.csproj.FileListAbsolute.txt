@@ -1,0 +1,15 @@
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\bin\Debug\net6.0\22LerDadosMostrarSalarioMes.exe
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\bin\Debug\net6.0\22LerDadosMostrarSalarioMes.deps.json
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\bin\Debug\net6.0\22LerDadosMostrarSalarioMes.runtimeconfig.json
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\bin\Debug\net6.0\22LerDadosMostrarSalarioMes.dll
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\bin\Debug\net6.0\ref\22LerDadosMostrarSalarioMes.dll
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\bin\Debug\net6.0\22LerDadosMostrarSalarioMes.pdb
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\22LerDadosMostrarSalarioMes.csproj.AssemblyReference.cache
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\22LerDadosMostrarSalarioMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\22LerDadosMostrarSalarioMes.AssemblyInfoInputs.cache
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\22LerDadosMostrarSalarioMes.AssemblyInfo.cs
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\22LerDadosMostrarSalarioMes.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\22LerDadosMostrarSalarioMes.dll
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\ref\22LerDadosMostrarSalarioMes.dll
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\22LerDadosMostrarSalarioMes.pdb
+C:\Cursos\CursoCSharp\22LerDadosMostrarSalarioMes\obj\Debug\net6.0\22LerDadosMostrarSalarioMes.genruntimeconfig.cache
